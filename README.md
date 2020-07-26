@@ -13,8 +13,8 @@ A little bit of my work:
 My social networks:
 
 <a href="https://facebook.com/rockandhack" target="_blank" style="color: #4267B2">Facebook</a> | 
-<a href="https://facebook.com/kickonightmare" target="_blank" style="color: #ff0000">YouTube</a> | 
-<a href="https://facebook.com/pavimFlavio" target="_blank" style="color: #1da1f2">Twitter</a> | 
+<a href="https://youtube.com/kickonightmare" target="_blank" style="color: #ff0000">YouTube</a> | 
+<a href="https://twitter.com/pavimFlavio" target="_blank" style="color: #1da1f2">Twitter</a> | 
 <a href="https://api.whatsapp.com/send?phone=67992647182" target="_blank" style="color: #25D366">WhatsApp</a>
 
 <!--
