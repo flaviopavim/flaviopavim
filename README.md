@@ -6,16 +6,16 @@ I do sites, apps, desktop programs, automation, and all kind of systems.
 
 A little bit of my work:
 
-<a href="https://whitehats.com.br" target="_blank">WhiteHats</a>
-<a href="https://alexiasystem.com.br" target="_blank">Alexia System</a>
-<a href="https://flaviopavim.com.br" target="_blank">Flávio Pavim</a>
+<a href="https://whitehats.com.br" target="_blank">WhiteHats</a> | 
+<a href="https://alexiasystem.com.br" target="_blank">Alexia System</a> | 
+<a href="https://flaviopavim.com.br" target="_blank">Flávio Pavim</a> | 
 
 My social networks:
 
-<a href="https://facebook.com/rockandhack" target="_blank">Facebook</a>
-<a href="https://facebook.com/kickonightmare" target="_blank">YouTube</a>
-<a href="https://facebook.com/pavimFlavio" target="_blank">Twitter</a>
-<a href="https://api.whatsapp.com/send?phone=67992647182">WhatsApp</a>
+<a href="https://facebook.com/rockandhack" target="_blank" style="color: #4267B2">Facebook</a> | 
+<a href="https://facebook.com/kickonightmare" target="_blank" style="color: #ff0000">YouTube</a> | 
+<a href="https://facebook.com/pavimFlavio" target="_blank" style="color: #1da1f2">Twitter</a> | 
+<a href="https://api.whatsapp.com/send?phone=67992647182" style="color: #25D366">WhatsApp</a>
 
 <!--
 - 🔭 I’m currently working on ...
