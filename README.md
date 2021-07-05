@@ -2,22 +2,18 @@
 ### ⚡ Full Stack Developer
 
 Hello World! I love softwares and I want to contribute with the world 🦾
+
 I do sites, apps, desktop programs, automation, and all kind of systems 🤖
 
-😎 Skills:
-HTML5, CSS3, XML, .htaccess, Javascript, PHP, MySQL, SQL, C#, C++, C, Objective-c, Java, Dart, Python, Delphi, ActionScript (RIP)
+😎 Skills: HTML5, CSS3, XML, .htaccess, Javascript, PHP, MySQL, SQL, C#, C++, C, Objective-c, Java, Dart, Python, Delphi, ActionScript (RIP)
 
-👽 Frameworks:
-jQuery, Bootstrap, Laravel, Yii, Springboot, Selenium (Python), Ionic, Cordova
+👽 Frameworks: jQuery, Bootstrap, Laravel, Yii, Springboot, Selenium (Python), Ionic, Cordova
 
-👾 Others:
-DOS, Shell script, Rest
+👾 Others: DOS, Shell Script, Rest
 
-💻 Some other softwares:
-Office, Corel Draw, Photoshop, Fireworks, InDesign, Inkscape, Gimp
+💻 Some other softwares: Office, Corel Draw, Photoshop, Fireworks, InDesign, Inkscape, Gimp
 
-🐧 OS:
-Windows, Linux, MacOS
+🐧 OS: Windows, Linux, MacOS
 
 🌱 A little bit of my work:
 
