@@ -5,7 +5,7 @@ Hello World! I love softwares and I want to contribute with the world 🦾
 I do sites, apps, desktop programs, automation, and all kind of systems 🤖
 
 😎 Skills:
-HTML5, CSS3, XML, .htaccess, Javascript, PHP, MySQL, SQL, C#, C++, C, Objective-c, Java, Dart, Python, Delphi, Action Script 2.0 e 3.0 (RIP)
+HTML5, CSS3, XML, .htaccess, Javascript, PHP, MySQL, SQL, C#, C++, C, Objective-c, Java, Dart, Python, Delphi, ActionScript (RIP)
 
 👽 Frameworks:
 jQuery, Bootstrap, Laravel, Yii, Springboot, Selenium (Python), Ionic, Cordova
