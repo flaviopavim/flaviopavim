@@ -14,7 +14,7 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 ⚔️ JS Family: jQuery, React.js, React Native, Angular, Numpy, P5
 
-📼 Database: MySQL, NoSQL, Oracle, SQL Server, Dynamo DB
+📼 Database: MySQL, NoSQL, SQL Lite, SQL Server, Oracle, Dynamo DB
 
 🪛 Tools: Docker, Node.js, Git
 
@@ -24,11 +24,15 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 🐧 OS: Windows, Linux, MacOS
 
+🕶 Essencial: DevOps, Scrum, Kanban
+
+
 🌱 A little bit of my work:
 
 <a href="https://whitehats.com.br" target="_blank">WhiteHats</a> | 
 <a href="https://flaviopavim.com.br" target="_blank">Flávio Pavim</a> | 
 <a href="https://alexiasystem.com.br" target="_blank">Alexia System</a>
+
 
 💬 My social networks:
 
