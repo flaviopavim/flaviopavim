@@ -1,21 +1,26 @@
 # Flávio Pavim
 ### ⚡ Full Stack Developer
 
-Hello World! I love softwares and I want to contribute with the world 🦾
-
-I do sites, apps, desktop programs, automation, and all kind of systems 🤖
-
+I do sites, apps, desktop programs, automation and lot type of systems 🤖
 
 I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 
-😎 Skills: HTML5, CSS3, XML, .htaccess, Javascript, PHP, MySQL, SQL, C#, C++, C, Objective-c, Swift, Java (Web, Desktop and Android), Dart (Flutter), Python, Delphi, ActionScript (RIP)
+## ❤️ Focus on: PHP, Javascript and Flutter
 
-👽 Frameworks: jQuery, Bootstrap, Laravel, Yii, Springboot, Selenium (Python), Ionic, Apache Cordova, Numpy, P5, React, Angular, Vue.js, Node.js, Npm, Git, Composer
+😎 Main skills: HTML5, CSS3, Javascript, PHP, SQL, C#, C++, C, Java, Dart (Flutter), Python, ActionScript (⚰️RIP)
+
+👽 Frameworks: Bootstrap 3 and 5, Laravel, Yii2, Springboot, Selenium (Python)
+
+⚔️ JS Family: jQuery, React.js, React Native, Angular, Numpy, P5
+
+📼 Database: MySQL, NoSQL, Oracle, SQL Server, Dynamo DB
+
+🪛 Tools: Docker, Node.js, Git
 
 👾 Others: DOS, Shell Script, Api Rest, SOAP, Wordpress
 
-💻 Some other softwares: Office, Corel Draw, Photoshop, Fireworks, InDesign, Inkscape, Gimp
+💻 Some other softwares: Office, Inkscape, Photoshop, Corel Draw
 
 🐧 OS: Windows, Linux, MacOS
 
@@ -30,7 +35,8 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 <a href="https://facebook.com/rockandhack" target="_blank" style="color: #4267B2">Facebook</a> | 
 <a href="https://youtube.com/flaviopavim" target="_blank" style="color: #ff0000">YouTube</a> | 
 <a href="https://twitter.com/pavimFlavio" target="_blank" style="color: #1da1f2">Twitter</a> | 
-<a href="https://wa.me/5518997307933" target="_blank" style="color: #25D366">WhatsApp</a>
+<a href="https://wa.me/5518996626124" target="_blank" style="color: #25D366">WhatsApp</a> |
+<a href="https://linkedin.com/in/kicko" target="_blank" style="color: #25D66">LinkedIn</a>
 
 <!--
 - 🔭 I’m currently working on ...
