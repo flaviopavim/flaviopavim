@@ -6,7 +6,7 @@ I do sites, apps, desktop programs, automation and lot type of systems 🤖
 I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 
-## ❤️ Focus on: PHP, Javascript and Flutter
+### ❤️ Focus on: PHP, Javascript and Flutter
 
 😎 Main skills: HTML5, CSS3, Javascript, PHP, SQL, C#, C++, C, Java, Dart (Flutter), Python, ActionScript (⚰️RIP)
 
