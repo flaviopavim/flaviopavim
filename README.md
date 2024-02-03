@@ -10,7 +10,7 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 😎 Main skills: HTML5, CSS3, Javascript, PHP, SQL, C#, C++, C, Java, Dart (Flutter), Python, ActionScript (⚰️RIP)
 
-👽 Frameworks: Bootstrap 3 ~ 5, Laravel, Yii2, Springboot, Selenium (Python)
+🤖 Frameworks: Bootstrap 3 ~ 5, Laravel, Yii2, Springboot, Selenium (Python)
 
 ⚔️ JS Family: jQuery, React.js, React Native, Angular, Numpy, P5
 
@@ -41,6 +41,9 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 <a href="https://twitter.com/pavimFlavio" target="_blank" style="color: #1da1f2">Twitter</a> | 
 <a href="https://wa.me/5518996626124" target="_blank" style="color: #25D366">WhatsApp</a> |
 <a href="https://linkedin.com/in/kicko" target="_blank" style="color: #25D66">LinkedIn</a>
+
+👽 A vídeo about my life (in portuguese)
+https://www.youtube.com/watch?v=3wZgyTzcRWk
 
 <!--
 - 🔭 I’m currently working on ...
