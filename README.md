@@ -42,7 +42,8 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 <a href="https://wa.me/5518996626124" target="_blank" style="color: #25D366">WhatsApp</a> |
 <a href="https://linkedin.com/in/kicko" target="_blank" style="color: #25D66">LinkedIn</a>
 
-👽 A vídeo about my life (in portuguese)
+👽 A vídeo about my life (in portuguese):
+
 https://www.youtube.com/watch?v=3wZgyTzcRWk
 
 <!--
