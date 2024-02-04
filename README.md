@@ -14,7 +14,9 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 ⚔️ JS Family: jQuery, React.js, React Native, Angular, Numpy, P5
 
-📼 Database: MySQL, NoSQL, SQL Lite, SQL Server, Oracle, Dynamo DB
+📼 Database: MySQL, NoSQL, SQL Lite, SQL Server, Oracle
+
+☁️ Cloud: AWS, Dynamo, Google Cloud
 
 🪛 Tools: Docker, Node.js, Git
 
@@ -40,7 +42,7 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 <a href="https://youtube.com/flaviopavim" target="_blank" style="color: #ff0000">YouTube</a> | 
 <a href="https://twitter.com/pavimFlavio" target="_blank" style="color: #1da1f2">Twitter</a> | 
 <a href="https://wa.me/5518996626124" target="_blank" style="color: #25D366">WhatsApp</a> |
-<a href="https://linkedin.com/in/kicko" target="_blank" style="color: #25D66">LinkedIn</a>
+<a href="https://linkedin.com/in/flaviogilpavim" target="_blank" style="color: #25D66">LinkedIn</a>
 
 👽 A vídeo about my life (in portuguese):
 
