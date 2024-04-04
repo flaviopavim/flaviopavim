@@ -29,7 +29,9 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 🕶 Essencial: DevOps, Scrum, Kanban
 
 
+
 NetBeans lover ❤️
+
 
 
 
