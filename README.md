@@ -1,7 +1,7 @@
 # Flávio Pavim
 ### ⚡ Full Stack Developer
 
-I do sites, apps, desktop programs, automation and lot type of systems 🤖
+I make sites, apps, desktop programs, automation and lot type of systems 🤖
 
 I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
@@ -10,7 +10,7 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 😎 Main skills: HTML5, CSS3, Javascript, PHP, SQL, C#, C++, C, Java, Dart (Flutter), Python, ActionScript (⚰️RIP)
 
-🤖 Frameworks: Bootstrap 3 ~ 5, Laravel, Yii2, Springboot, Selenium (Python)
+🤖 Frameworks: Bootstrap 3 ~ 5, Laravel, Yii2, Springboot, Pyautogui, Selenium (Python)
 
 ⚔️ JS Family: jQuery, React.js, React Native, Angular, Numpy, P5
 
@@ -27,6 +27,10 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 🐧 OS: Windows, Linux, MacOS
 
 🕶 Essencial: DevOps, Scrum, Kanban
+
+
+NetBeans lover ❤️
+
 
 
 🌱 A little bit of my work:
