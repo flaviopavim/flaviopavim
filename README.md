@@ -13,6 +13,8 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 🕶 Essencial: DevOps, Scrum, Jira, Kanban
 
 
+
+
 More especifications
 
 🤖 Frameworks: Bootstrap 3 ~ 5, Laravel, Yii2, Springboot, Pyautogui, Selenium (Python)
@@ -37,11 +39,13 @@ More especifications
 
 
 
+
 🌱 A little bit of my work:
 
 <a href="https://whitehats.com.br" target="_blank">WhiteHats</a> | 
 <a href="https://flaviopavim.com.br" target="_blank">Flávio Pavim</a> | 
 <a href="https://alexiasystem.com.br" target="_blank">Alexia System</a>
+
 
 
 💬 My social networks:
@@ -51,6 +55,7 @@ More especifications
 <a href="https://twitter.com/pavimFlavio" target="_blank" style="color: #1da1f2">Twitter</a> | 
 <a href="https://wa.me/5518996626124" target="_blank" style="color: #25D366">WhatsApp</a> |
 <a href="https://linkedin.com/in/flaviogilpavim" target="_blank" style="color: #25D66">LinkedIn</a>
+
 
 👽 A vídeo about my life (in portuguese):
 
