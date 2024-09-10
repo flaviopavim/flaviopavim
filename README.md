@@ -8,30 +8,32 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 ### ❤️ Focus on: PHP, Javascript, Flutter and Arduino
 
-😎 Main skills: HTML5, CSS3, Javascript, PHP, SQL, C#, C++, C, Java, Dart (Flutter), Python, ActionScript (⚰️RIP)
+😎 Other skills: HTML5, CSS3, C#, Java, Python, ActionScript (⚰️RIP)
+
+🕶 Essencial: DevOps, Scrum, Jira, Kanban
+
+
+More especifications
 
 🤖 Frameworks: Bootstrap 3 ~ 5, Laravel, Yii2, Springboot, Pyautogui, Selenium (Python)
 
-⚔️ JS Family: jQuery, React.js, React Native, Angular, Numpy, P5
+⚔️ JS Family: Node.js, React.js, React Native, Angular, jQuery, P5
 
-📼 Database: MySQL, NoSQL, SQL Lite, SQL Server, Oracle
+⚡ API's: Api Rest, SOAP, Wordpress
 
-☁️ Cloud: AWS, Dynamo, Google Cloud
+💵 Payment integrations: Safe2Pay, SuitPay, Wirecard, PagSeguro
 
-🪛 Tools: Docker, Node.js, Git
+📼 Database: SQL, MySQL, MariaDB, NoSQL, SQL Lite, SQL Server, Oracle
 
-👾 Others: DOS, Shell Script, Api Rest, SOAP, Wordpress
+☁️ Cloud: AWS (S3, EC2, Dynamo), Google Cloud
+
+🪛 IDE's: VSCode, Android Studio, NetBeans, Visual Studio, Eclipse
+
+👾 Others: Docker, Git, Xampp, Wamp, DOS, Shell Script
 
 💻 Some other softwares: Office, Inkscape, Photoshop, Corel Draw
 
-🐧 OS: Windows, Linux, MacOS
-
-🕶 Essencial: DevOps, Scrum, Kanban
-
-
-
-NetBeans lover ❤️
-
+🐧 OS: Windows and Linux
 
 
 
@@ -56,12 +58,9 @@ https://www.youtube.com/watch?v=3wZgyTzcRWk
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 - 👋
 -->
