@@ -15,6 +15,7 @@ I want to dominate all machines before they dominate us! Hey ho, lets Code!
 
 
 
+
 More especifications
 
 🤖 Frameworks: Bootstrap 3 ~ 5, Laravel, Yii2, Springboot, Pyautogui, Selenium (Python)
