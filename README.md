@@ -75,7 +75,7 @@ My main areas of expertise are:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
 
-**DevOps:** Docker, CI/CD, GitHub Actions, Linux, Shell Script, AWS and Google Cloud
+**DevOps:**  CI/CD, GitHub Actions, Linux and Shell Script
 
 **Methodologies:** Scrum, Kanban and Jira
 
